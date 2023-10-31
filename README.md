@@ -640,14 +640,6 @@ module.exports = withMT({
 
 <br />
 <br />
-
-## Community
-
-We're excited to see the community adopt Material Tailwind, raise issues, and provide feedback.
-Whether it's a feature request, bug report, or a project to showcase, please get involved!
-
-- [Discord](https://discord.com/invite/FhCJCaHdQa)
-
 ## Contributing
 
 Contributions are always welcome!
